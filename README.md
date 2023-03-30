@@ -1,5 +1,5 @@
-# audits
-Public audits repository
+# Vacuumlabs smart contract audits
+Repository of smart contract audits performed by Vacuumlabs.
 
 ## List of Audits
 
