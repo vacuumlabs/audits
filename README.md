@@ -1,7 +1,7 @@
 # Vacuumlabs smart contract audit reports
 Repository of smart contract audit reports performed by Vacuumlabs.
 
-## List of Audits
+## List of Audit Reports
 
 * Aada v1 protocol: [report](./reports/aada-v1.pdf)
 * Aada Debt Request: [report](./reports/aada-debt-request-v1.pdf)
