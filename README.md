@@ -1,5 +1,5 @@
-# Vacuumlabs smart contract audits
-Repository of smart contract audits performed by Vacuumlabs.
+# Vacuumlabs smart contract audit reports
+Repository of smart contract audit reports performed by Vacuumlabs.
 
 ## List of Audits
 
