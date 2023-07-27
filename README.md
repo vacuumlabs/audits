@@ -9,6 +9,7 @@ Welcome to our repository where we share the public outputs of our work. This co
 * Ardana design review: [view report](./reports/ardana-dusd-v1.0.pdf)
 * Agora, Agora-Pro by Liqwid: [view report](./reports/liqwid-agora-v1.pdf)
 * Liqwid v1 app: [view report](./reports/liqwid-app-v1.0.pdf)
+* MELD Token Migration: [view report](./reports/meld-token-v1.0.pdf)
 
 ## Contact
 * Browse our [website](https://vacuumlabs.com/smart-contract-auditing/) for more information
