@@ -13,6 +13,6 @@ Welcome to our repository where we share the public outputs of our work. This co
 
 ## Contact
 * Browse our [website](https://vacuumlabs.com/smart-contract-auditing/) for more information
-* Follow us on [Twitter](https://twitter.com/Crypto_by_VL) to keep up-to-date with our latest news
+* Follow us on [Twitter](https://twitter.com/vacuum_crypto) to keep up-to-date with our latest news
 * Read and interact with us on our [Medium blog](https://medium.com/@vacuumlabs_auditing)
 * Or simply drop a *hi!* at [audit@vacuumlabs.com](mailto:audit@vacuumlabs.com)
