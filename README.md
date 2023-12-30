@@ -12,6 +12,7 @@ Welcome to our repository where we share the public outputs of our work. This co
 * MELD Token Migration: [view report](./reports/meld-token-v1.0.pdf)
 * WingRiders Launchpad
 * FluidTokens Peer-to-Peer Lending (EVM): [view report](./reports/fluidtokens-p2p-lending-evm-v1.0.pdf)
+* FluidTokens Peer-to-Peer Loans v3: [view report](./reports/fluidtokens-p2p-loans-v3-v1.0.pdf)
 
 ## Contact
 * Browse our [website](https://vacuumlabs.com/smart-contract-auditing/) for more information
