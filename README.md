@@ -15,7 +15,7 @@ Welcome to our repository where we share the public outputs of our work. This co
 * FluidTokens Peer-to-Peer Loans v3: [view report](./reports/fluidtokens-p2p-loans-v3-v1.0.pdf)
 * Cardano Casino: [view report](./reports/cardano-casino-v1.0.pdf)
 * Cardano Casino v1.1: [view report](./reports/cardano-casino-v1.1.pdf)
-* WingRiders v2
+* WingRiders v2: [view report](./reports/wingriders-v2-v1.0.pdf)
 
 ## Contact
 * Browse our [website](https://vacuumlabs.com/smart-contract-auditing/) for more information
