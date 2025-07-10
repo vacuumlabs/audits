@@ -1,6 +1,9 @@
 # Vacuumlabs Auditing - Reports
 Welcome to our repository where we share the public outputs of our work. This collection showcases a series of smart contract audit reports performed by the Vacuumlabs Auditing team.
 
+**Important Note:** [Invariant0](https://invariant0.com) is now the continuation of the Vacuumlabs Auditing team. The team has transitioned to operating under the Invariant0 brand to continue providing top-tier smart contract security services.
+
+
 ## List of Audit Reports
 
 * Aada v1 protocol: [view report](./reports/aada-v1.pdf)
@@ -19,7 +22,9 @@ Welcome to our repository where we share the public outputs of our work. This co
 * Iagon Delegation v3: [view solo report](./reports/iagon-delegation-v3-v1.0.pdf)
 
 ## Contact
-* Browse our [website](https://vacuumlabs.com/smart-contract-auditing/) for more information
-* Follow us on [Twitter](https://twitter.com/vacuumlabs) to keep up-to-date with our latest news
-* Read and interact with us on our [Medium blog](https://medium.com/@vacuumlabs_auditing)
-* Or simply drop a *hi!* at [audit@vacuumlabs.com](mailto:audit@vacuumlabs.com)
+**Invariant0 is now the continuation of Vacuumlabs Auditing team**
+
+* Browse our [website](https://invariant0.com/) for more information
+* Follow us on [X](https://x.com/invariant0_com) to keep up-to-date with our latest news
+* Read and interact with us on our [Medium blog](https://medium.com/@invariant0)
+* Or simply drop us a *hi!* at [info@invariant0.com](mailto:info@invariant0.com)
